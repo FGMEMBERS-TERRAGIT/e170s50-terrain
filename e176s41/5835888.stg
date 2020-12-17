@@ -1,0 +1,5 @@
+OBJECT_BASE 5835888.btg
+OBJECT NZDV.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 176.076342 -40.232699 192.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 176.083160 -40.227025 195.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 176.078236 -40.227379 196.2 0.00
